@@ -93,3 +93,4 @@ Transforma o elemento em um container flexível e permite organizar os filhos em
 - **Erros comuns**: Esquecer `flex-wrap`, uso incorreto de `justify-content` e `align-items`.
 - **Dicas de performance**: Evitar aninhamentos excessivos e testar compatibilidade em diferentes navegadores.
 - **Próximos passos**: Aprender Grid Layout, explorar frameworks CSS (Tailwind, Bootstrap) e usar pré-processadores (SASS).
+- **Fonte:** [MDN Web Docs - CSS Grid](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
