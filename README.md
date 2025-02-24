@@ -99,3 +99,4 @@ Transforma o elemento em um container flexível e permite organizar os filhos em
 ### Fonte:
 - **Google**
 - **Fonte:** [MDN Web Docs - CSS Grid](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
+- **Fonte:** [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
