@@ -87,7 +87,7 @@ Transforma o elemento em um container flexível e permite organizar os filhos em
 
 ---
 
-### 8. Conclusão e Melhores Práticas
+### 9. Conclusão e Melhores Práticas
 
 - **Benefícios do Flexbox**: Código mais limpo, alinhamento simplificado e melhor responsividade.
 - **Erros comuns**: Esquecer `flex-wrap`, uso incorreto de `justify-content` e `align-items`.
